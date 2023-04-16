@@ -15,7 +15,7 @@ world.
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MESHKY&count_private=true&layout=compact&theme=transparent)
