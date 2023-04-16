@@ -19,7 +19,8 @@ world.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MR-MESHKY&show_icons=true&count_private=true&theme=transparent) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MESHKY&count_private=true&layout=compact&theme=transparent)
-<h2 align="center"> Connect Me </h2>
+
+<h2> Connect Me </h2>
 <p>
 •Instagram: @MR_MESHKY<br>
 •Telegram: @MR_MESHKY<br>
