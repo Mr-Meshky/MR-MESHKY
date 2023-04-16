@@ -1,12 +1,12 @@
-<img align="center" src="https://user-images.githubusercontent.com/121286220/228952124-4a51bfe9-2ac4-43b9-9ca3-76a1f2640437.svg" alt= "Just For Fun">
 # <a href="https://github.com/MR-MESHKY"> MR MESHKY </a>
+<img align="center" src="https://user-images.githubusercontent.com/121286220/228952124-4a51bfe9-2ac4-43b9-9ca3-76a1f2640437.svg" alt= "Just For Fun">
 
 Hi, I am MR MESHKY ,and I was born in 2007 February.
 I love application development, web scrapping. I started programming in 2022 September.
 I'm busy with python on telegram bot and anything in development 
 world.
 
-<a href="[https://t.me/MR_MESHKY](https://github.com/MR-MESHKY)">
+<a href="https://t.me/MR_MESHKY">
 	<img align="left" alt="MR-MESHKY | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
 </a>
 <br>
