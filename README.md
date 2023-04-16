@@ -22,7 +22,7 @@ world.
 
 <h2> Connect Me </h2>
 <p>
-•Instagram: @MR_MESHKY<br>
-•Telegram: @MR_MESHKY<br>
-•Rubika: @MR_MESHKY<br>
+• Instagram: @MR_MESHKY<br>
+• Telegram: @MR_MESHKY<br>
+• Rubika: @MR_MESHKY<br>
 </p>
