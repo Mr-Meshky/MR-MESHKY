@@ -1,9 +1,8 @@
+# <a href="https://github.com/MR-MESHKY"> MR MESHKY </a>
 
-# <a href="https://github.com/MR-MESHKY"> Bahman Ahmadi </a>
+Hi, I am MR MESHKY ,and I was born in 2007.jan, I love web development, web scrapping and etc. I started programming in 2020.july, I'm busy with python on flask and anything in web development world.
 
-Hi, I am Bahman Ahmadi ,and I was born in 2007.jan, I love web development, web scrapping and etc. I started programming in 2020.july, I'm busy with python on flask and anything in web development world.
-
-<a href="[https://t.me/Bprogrammer](https://github.com/MR-MESHKY)">
+<a href="[https://t.me/MR_MESHKY](https://github.com/MR-MESHKY)">
 	<img align="left" alt="MR-MESHKY | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
 </a>
 <br>
