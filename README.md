@@ -6,9 +6,9 @@ I love application development, web scrapping. I started programming in 2022 Sep
 I'm busy with python on telegram bot and anything in development 
 world.
 
-<a href="https://t.me/MR_MESHKY">
-	 Contact Me
-	<img align="left" alt="MR-MESHKY | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />
+<!-- <a href="https://t.me/MR_MESHKY"> -->
+<!-- 	 Contact Me -->
+<!-- 	<img align="left" alt="MR-MESHKY | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> -->
 </a>
 <br>
 
