@@ -26,17 +26,7 @@ Hi, I'm MrMeshky and I was born in February 2007. I love app development, web de
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MR-MESHKY&show_icons=true&count_private=true&theme=transparent) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MESHKY&count_private=true&layout=compact&theme=transparent)
-📊 **Skills**
-<!--START_SECTION:waka-->
 
-```txt
-Python      ███████████████████▓░░░░░   78.11 %
-JavaScript  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-React.js    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Other       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-```
-
-<!--END_SECTION:waka-->
 
 -------
 <h2> Connect Me </h2>
