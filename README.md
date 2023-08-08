@@ -20,11 +20,8 @@ Hi, I'm MrMeshky and I was born in February 2007. I love app development, web de
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> 
-<!--    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> </p> -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=MR-MESHKY&show_icons=true&count_private=true&theme=transparent) -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MESHKY&count_private=true&layout=compact&theme=transparent)
 
 
