@@ -22,9 +22,6 @@ Hi, I'm MrMeshky and I was born in February 2007. I love app development, web de
             alt="javascript" width="40" height="40" /> </a> 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-MESHKY&count_private=true&layout=compact&theme=transparent)
-
-
 -------
 <h2> Connect Me </h2>
 <p>
