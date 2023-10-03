@@ -1,5 +1,6 @@
 ### Hi i'm MrMeshky <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p>I young Iranian Web developer</p>
+
 ## My expertise
 
 <div>
@@ -31,3 +32,10 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logoColor=white&logo=gmail" />
 </a>
 
+<br>
+
+<p align="center"> 
+  Visitors count
+  <br>
+  <img src="https://profile-counter.glitch.me/Mr_Meshky/count.svg" />
+</p>
