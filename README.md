@@ -1,5 +1,5 @@
-<h4 align="center">Hi, I'm a MrMeshky and was born in February 2007.
-I love to develop program, web design and problem solving. I'm currently working on Front-end</h4>
+<p align="center">Hi, I'm a MrMeshky and was born in February 2007.
+I love to develop program, web design and problem solving. I'm currently working on Front-end</p>
 
 ## My expertise
 
