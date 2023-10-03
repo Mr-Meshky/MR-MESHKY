@@ -10,7 +10,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%231572B6?style=for-the-badge&logoColor=white&logo=bootstrap" />
 <img alt="Sass" src="https://img.shields.io/badge/Sass-eb78b2?style=for-the-badge&logoColor=white&logo=sass" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=fff" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <!-- <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
