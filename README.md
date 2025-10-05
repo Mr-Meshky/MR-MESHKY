@@ -6,7 +6,7 @@ Just another tech enthusiast who enjoys programming.
 > sudo apt upgrade life
 ```
 
-- [LinkedIn](https://linkedin.com/in/mr-meshky)
+- [LinkedIn](https://www.linkedin.com/in/amirmohammad-ahmadi/)
 - [Instagram](https://instagram.com/mr_meshky)
 
 <img src="https://raw.githubusercontent.com/mr-meshky/mr-meshky/output/snake.svg" alt="Snake animation" />
